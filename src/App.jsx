@@ -25,7 +25,7 @@ function App() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Leaf className="w-8 h-8 text-green-600" />
-              <span className="text-xl font-bold text-gray-900">AgroTech</span>
+              <span className="text-xl font-bold text-gray-900">BobinoMax</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#inicio" className="text-gray-700 hover:text-green-600 transition">Inicio</a>
@@ -47,10 +47,10 @@ function App() {
             <div>
               <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
                 Innovación en
-                <span className="text-green-600"> Agricultura Sostenible</span>
+                <span className="text-green-600"> Ganaderia Sostenible</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Transformamos la agricultura con tecnología de punta, maximizando rendimientos mientras cuidamos el medio ambiente.
+                Transformamos la Ganaderia con tecnología de punta, maximizando rendimientos mientras cuidamos el medio ambiente.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <button className="bg-green-600 text-white px-8 py-4 rounded-full hover:bg-green-700 transition flex items-center justify-center">
@@ -83,9 +83,9 @@ function App() {
               <div className="bg-blue-600 w-16 h-16 rounded-full flex items-center justify-center mb-6">
                 <Droplets className="w-8 h-8 text-white" />
               </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-4">Riego Inteligente</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Ganaderia Inteligente</h3>
               <p className="text-gray-600">
-                Sistemas automatizados que optimizan el uso del agua según las necesidades específicas de cada cultivo.
+                Sistemas automatizados que optimizan el uso del agua según las necesidades específicas de cada ganado.
               </p>
             </div>
 
@@ -216,14 +216,14 @@ function App() {
                 <Mail className="w-6 h-6 text-green-600 mt-1" />
                 <div>
                   <h3 className="font-bold text-gray-900 mb-1">Email</h3>
-                  <p className="text-gray-600">contacto@agrotech.com</p>
+                  <p className="text-gray-600">kevinalpire@BobinoMax.com</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
                 <Phone className="w-6 h-6 text-green-600 mt-1" />
                 <div>
                   <h3 className="font-bold text-gray-900 mb-1">Teléfono</h3>
-                  <p className="text-gray-600">+591 3 123-4567</p>
+                  <p className="text-gray-600">+591 73169973</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -243,10 +243,10 @@ function App() {
         <div className="max-w-7xl mx-auto text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Leaf className="w-8 h-8 text-green-500" />
-            <span className="text-2xl font-bold">AgroTech</span>
+            <span className="text-2xl font-bold">BobinoMax</span>
           </div>
           <p className="text-gray-400 mb-4">Innovación sostenible para el campo del futuro</p>
-          <p className="text-gray-500 text-sm">© 2026 AgroTech. Todos los derechos reservados.</p>
+          <p className="text-gray-500 text-sm">© 2026 BobinoMax. Todos los derechos reservados.</p>
         </div>
       </footer>
     </div>
